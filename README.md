@@ -1,4 +1,4 @@
-# Renzo Protocol: On-Chain Analytics
+# Renzo Protocol: Restaking Inflows & Holder Growth
 
 A comprehensive Dune Analytics dashboard dissecting the growth and economics of Renzo Protocol.
 
